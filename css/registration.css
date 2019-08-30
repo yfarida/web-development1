@@ -1,0 +1,11 @@
+.div{
+
+    border: 4px;
+    border-style:dashed;
+    border-color: black;
+    width: 400px;
+    height: 300px;
+    padding:2px;
+    line-height: 2px;
+    margin: 3% 30%;
+}
